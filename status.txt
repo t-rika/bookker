@@ -17,3 +17,4 @@
 [Start]Gitを学ぼう-2
 [Finish]Gitを学ぼう-2
 [Start]Gitを学ぼう-3
+[Finish]Gitを学ぼう-3
