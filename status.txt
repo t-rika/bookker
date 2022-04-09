@@ -22,3 +22,4 @@
 [Finish]Gitを学ぼう-4
 [Start]Gitを学ぼう-5
 [Finish]Gitを学ぼう-5
+[Start]Gitを学ぼう-6
