@@ -13,3 +13,4 @@
 [Finish]Webアプリケーションを作ってよう-2
 
 [Start]Gitを学ぼう-1
+[Finish]Gitを学ぼう-1
